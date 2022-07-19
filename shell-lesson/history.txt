@@ -1,0 +1,57 @@
+    1  dig www.covid19reviews.org +nostats +nocomments +nocmd
+    2  dig www.kathrynvela.com
+    3  pwd
+    4  ls
+    5  ls -l
+    6  ls
+    7  cd Desktop
+    8  cd ..
+    9  cd -
+   10  cd lcw2020
+   11  cd Desktop
+   12  cd
+   13  cd Desktop
+   14  cd lcw2020
+   15  cd lcw2022
+   16  cd shell-lesson
+   17  cd ..
+   18  ls --help
+   19  ls -size
+   20  ls --size
+   21  ls -s
+   22  ls -S
+   23  ls -lS
+   24  pws
+   25  pwd
+   26  cd ..
+   27  cd -
+   28  cd ..
+   29  cd lcw2022/shell-lesson
+   30  mkdir firstdir
+   31  ls
+   32  cd firstdir
+   33  cd ..
+   34  cd firstdir/
+   35  cd ..
+   36  ls -lh
+   37  cat 829-0.txt
+   38  head 829-0.txt
+   39  tail 829-0.txt
+   40  head 829-0.txt 33504-0.txt
+   41  head *.txt
+   42  mv 829-0.txt gulliver.txt
+   43  ls
+   44  cp gulliver.txt guliver-backup.txt
+   45  ls
+   46  mv firstdir backup
+   47  ls
+   48  mv gulliver-backup.txt backup
+   49  mv guliver-backup.txt gulliver-backup.txt
+   50  ls
+   51  mv gulliver-backup-txt backup
+   52  mv gulliver-backup.txt backup
+   53  cd -
+   54  cd backup
+   55  ls
+   56  cd -
+   57  history > history.txt
